@@ -22,7 +22,7 @@ function Experience() {
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
-              <h4>Next-Js</h4>
+              <h4>Next.Js</h4>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
