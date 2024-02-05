@@ -77,10 +77,16 @@ header {
 @media screen and (max-width: 600px) {
     header {
         height: 100vh;
+        overflow: visible;
     }
 
     .header_socials,
     .scroll_down {
         display: none;
+    }
+
+    .me {
+        position: relative;
+        margin-top: 1rem;
     }
 }
