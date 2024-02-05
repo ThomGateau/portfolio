@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cd396b94.css",
+    "main.css": "/portfolio/static/css/main.d4b30868.css",
     "main.js": "/portfolio/static/js/main.43598d80.js",
     "static/media/me2.jpeg": "/portfolio/static/media/me2.91ddb3f31acf7d38bcfb.jpeg",
     "static/media/me.png": "/portfolio/static/media/me.5af2a4abeb02a3abd237.png",
@@ -10,11 +10,11 @@
     "static/media/freshlyRestaurant.png": "/portfolio/static/media/freshlyRestaurant.f7332df3c1ca42885b75.png",
     "static/media/thomasGateauCv.pdf": "/portfolio/static/media/thomasGateauCv.c651bd13d44774058f09.pdf",
     "index.html": "/portfolio/index.html",
-    "main.cd396b94.css.map": "/portfolio/static/css/main.cd396b94.css.map",
+    "main.d4b30868.css.map": "/portfolio/static/css/main.d4b30868.css.map",
     "main.43598d80.js.map": "/portfolio/static/js/main.43598d80.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd396b94.css",
+    "static/css/main.d4b30868.css",
     "static/js/main.43598d80.js"
   ]
 }
