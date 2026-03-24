@@ -22,7 +22,7 @@ function Experience() {
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
-              <h4>Next.Js</h4>
+              <h4>Taillwind</h4>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
@@ -44,23 +44,31 @@ function Experience() {
           <div className="experience_content">
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
-              <h4>Kotlin</h4>
+              <h4>Node.JS</h4>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
-              <h4>PHP</h4>
+              <h4>Typescript</h4>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
-              <h4>Spring Boot</h4>
+              <h4>Python</h4>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
-              <h4>MySql</h4>
+              <h4>SQL / NoSql</h4>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
-              <h4>MongoDB</h4>
+              <h4>API REST</h4>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className='experience_details-icon'/>
+              <h4>API GraphQL</h4>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className='experience_details-icon'/>
+              <h4>Java</h4>
             </article>
           </div>
         </div>
@@ -82,11 +90,19 @@ function Experience() {
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
-              <h4>Linux</h4>
+              <h4>Sublime Merge</h4>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className='experience_details-icon'/>
-              <h4>Sublime Merge</h4>
+              <h4>Jira</h4>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className='experience_details-icon'/>
+              <h4>Confluence</h4>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className='experience_details-icon'/>
+              <h4>Docker</h4>
             </article>
           </div>
         </div>

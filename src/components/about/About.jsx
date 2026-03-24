@@ -36,7 +36,7 @@ function About() {
             <article className="about_card">
               <VscFolderLibrary className='about_icon'/>
               <h5>Working with</h5>
-              <small><a href="https://www.novasquare.io/fr">Novasquare</a></small>
+              <small><a href="https://www.novasquare.io/fr">Novasquare</a> / <a href="https://www.sanofi.fr/fr">Sanofi</a></small>
             </article>
             </div>
             <p>
